@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/simplereactwebsite/static/css/main.acba579c.chunk.css",
+    "main.js": "/simplereactwebsite/static/js/main.57ef61ab.chunk.js",
+    "main.js.map": "/simplereactwebsite/static/js/main.57ef61ab.chunk.js.map",
+    "runtime-main.js": "/simplereactwebsite/static/js/runtime-main.5d171eb9.js",
+    "runtime-main.js.map": "/simplereactwebsite/static/js/runtime-main.5d171eb9.js.map",
+    "static/js/2.68acc93e.chunk.js": "/simplereactwebsite/static/js/2.68acc93e.chunk.js",
+    "static/js/2.68acc93e.chunk.js.map": "/simplereactwebsite/static/js/2.68acc93e.chunk.js.map",
+    "index.html": "/simplereactwebsite/index.html",
+    "static/css/main.acba579c.chunk.css.map": "/simplereactwebsite/static/css/main.acba579c.chunk.css.map",
+    "static/js/2.68acc93e.chunk.js.LICENSE.txt": "/simplereactwebsite/static/js/2.68acc93e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d171eb9.js",
+    "static/js/2.68acc93e.chunk.js",
+    "static/css/main.acba579c.chunk.css",
+    "static/js/main.57ef61ab.chunk.js"
+  ]
+}
