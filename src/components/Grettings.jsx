@@ -1,7 +1,7 @@
 import React, {useState} from 'react'
 
 const Grettings = () => {
-    let currDate = new Date(2022, 5, 11, 1);
+    let currDate = new Date();
     currDate = currDate.getHours();
     let greeting="";
     const cssStyle={ };
